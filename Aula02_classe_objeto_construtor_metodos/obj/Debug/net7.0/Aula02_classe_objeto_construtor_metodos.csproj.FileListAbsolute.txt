@@ -1,0 +1,15 @@
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.exe
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.deps.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.runtimeconfig.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\bin\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.csproj.AssemblyReference.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.AssemblyInfoInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.AssemblyInfo.cs
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.csproj.CoreCompileInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\refint\Aula02_classe_objeto_construtor_metodos.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\Aula02_classe_objeto_construtor_metodos.genruntimeconfig.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula02_classe_objeto_construtor_metodos\obj\Debug\net7.0\ref\Aula02_classe_objeto_construtor_metodos.dll

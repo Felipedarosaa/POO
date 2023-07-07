@@ -1,0 +1,15 @@
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\bin\Debug\net7.0\Atividades Aula02.exe
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\bin\Debug\net7.0\Atividades Aula02.deps.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\bin\Debug\net7.0\Atividades Aula02.runtimeconfig.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\bin\Debug\net7.0\Atividades Aula02.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\bin\Debug\net7.0\Atividades Aula02.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\Atividades Aula02.csproj.AssemblyReference.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\Atividades Aula02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\Atividades Aula02.AssemblyInfoInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\Atividades Aula02.AssemblyInfo.cs
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\Atividades Aula02.csproj.CoreCompileInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\Atividades Aula02.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\refint\Atividades Aula02.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\Atividades Aula02.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\Atividades Aula02.genruntimeconfig.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Atividades Aula02\obj\Debug\net7.0\ref\Atividades Aula02.dll

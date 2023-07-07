@@ -1,0 +1,15 @@
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\bin\Debug\net7.0\Aula06_herança_atividade03.exe
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\bin\Debug\net7.0\Aula06_herança_atividade03.deps.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\bin\Debug\net7.0\Aula06_herança_atividade03.runtimeconfig.json
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\bin\Debug\net7.0\Aula06_herança_atividade03.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\bin\Debug\net7.0\Aula06_herança_atividade03.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\Aula06_herança_atividade03.csproj.AssemblyReference.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\Aula06_herança_atividade03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\Aula06_herança_atividade03.AssemblyInfoInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\Aula06_herança_atividade03.AssemblyInfo.cs
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\Aula06_herança_atividade03.csproj.CoreCompileInputs.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\Aula06_herança_atividade03.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\refint\Aula06_herança_atividade03.dll
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\Aula06_herança_atividade03.pdb
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\Aula06_herança_atividade03.genruntimeconfig.cache
+D:\Arquivos Ulbra\3º Semestre\Programação Orientada a Objetos\Aula 06 (Atividade Herança)\Aula06_herança_atividade03\obj\Debug\net7.0\ref\Aula06_herança_atividade03.dll
